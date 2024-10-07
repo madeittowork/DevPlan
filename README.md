@@ -6,7 +6,7 @@
  - [x] Learn the basics of GitHub; for note taking and tracking: October 6 2024
  - [x] Download Visual Studio Code: October 6 2024
  - [x] Figure out how VSC and GitHub work; Testingg with *DevPlan* repository: October 6 2024
- - [ ] Learn *Markdown* for note taking
+ - [x] Learn *Markdown* for note taking
 
  ## Phase 1: JavaScript Foundations (4-6 weeks)
 
@@ -110,11 +110,11 @@
 
  |Plan|Start|End|
  |----|----|----|
- |Beginning| October 6 2024|----|
- |Phase 1|----|----|
- |Phase 2|----|----|
- |Phase 3|----|----|
- |Phase 4|----|----|
+ |Beginning| October 6 2024|October 6 2024|
+ |Phase 1|||
+ |Phase 2|||
+ |Phase 3|||
+ |Phase 4|||
 
  > "Never underestimate the power you have to take your life in a new direction."
 
