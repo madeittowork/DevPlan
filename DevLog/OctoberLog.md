@@ -35,6 +35,7 @@ Very happy with my first day! In 3-4 hours I feel like I accomplished a decent a
 - First ever small project made with HTML & CSS: learned as I went
 - VSC set up in a way im happy with!
 - I understand the filetypes now in VSC
+- Added notes of what I learnd INTO the code I did and sent to GH
 
 #### Concerns
 
